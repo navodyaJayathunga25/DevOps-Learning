@@ -1,7 +1,7 @@
 # Linux Short Course Summary
 
 ## Course Completed :sunglasses::tada:
-- ["Crash Course: Linux For Absolute Beginners" (KodeKloud)] (https://learn.kodekloud.com/user/courses/crash-course-linux-for-absolute-beginners?utm_source=youtube&utm_medium=affiliate&utm_campaign=abhishek_veeramalla_kubernetes&utm_id=oldvideos&utm_term=&utm_content=)
+["Crash Course: Linux For Absolute Beginners" (KodeKloud)](https://learn.kodekloud.com/user/courses/crash-course-linux-for-absolute-beginners?utm_source=youtube&utm_medium=affiliate&utm_campaign=abhishek_veeramalla_kubernetes&utm_id=oldvideos&utm_term=&utm_content=)
 
 ## Key Learnings :point_down:
 - Login and system documentation
