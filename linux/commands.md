@@ -2,6 +2,7 @@
 
 ## Course Completed :sunglasses::tada:
 ["Crash Course: Linux For Absolute Beginners" (KodeKloud)](https://learn.kodekloud.com/user/courses/crash-course-linux-for-absolute-beginners?utm_source=youtube&utm_medium=affiliate&utm_campaign=abhishek_veeramalla_kubernetes&utm_id=oldvideos&utm_term=&utm_content=)
+[View Certificate](https://learn.kodekloud.com/user/certificate/bd713b90-3c66-4de5-8a68-c46195877ca1)
 
 ## Key Learnings :point_down:
 - Login and system documentation
@@ -38,7 +39,7 @@
 - Created and deleted folders
 - Practiced basic file system operations
   
-### Reflection :sunflower:
+## Reflection :sunflower:
 - Completing this course helped me understand Linux fundamentals clearly.
 - Enjoyed applying commands hands-on rather than only reading theory.
 
