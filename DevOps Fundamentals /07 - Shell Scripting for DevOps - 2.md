@@ -17,7 +17,11 @@ Example scenario:
 
 ```bash
 vi nodehealth.sh
-Script Template
+```
+
+###Script Template
+
+```bash
 #!/bin/bash
 
 #############################
@@ -27,3 +31,4 @@ Script Template
 #
 # This script checks the health of the Linux node.
 #############################
+```
