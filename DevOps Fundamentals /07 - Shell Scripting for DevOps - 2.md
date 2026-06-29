@@ -19,7 +19,7 @@ Example scenario:
 vi nodehealth.sh
 ```
 
-###Script Template
+### Script Template
 
 ```bash
 #!/bin/bash
